@@ -1,2 +1,2 @@
-# Class-Projects
-ejercicios de python 123
+# Flet Projects
+Projects made with Flet for Software Development.
